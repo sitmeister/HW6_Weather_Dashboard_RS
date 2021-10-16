@@ -1,0 +1,47 @@
+nav {
+    background-image: linear-gradient(to right,rgb(47, 76, 240), rgb(0, 0, 61));
+
+}
+.nav-wrapper {
+    text-align: center;
+}
+main {
+    margin: 10px;
+    width: 98%;
+
+}
+.flex-row {
+    display: flex;
+
+}
+.button {
+    background-color: blue;
+    color: white;
+}
+.search {
+    margin-top: -40px;
+    /* width: 25vw; */
+    padding-right: 15px;
+}
+.search h1 {
+    font-size: 2em;
+    font-weight: bolder
+}
+.content {
+    /* width:71vw; */
+    margin: 5px;
+}
+.content-box {
+    border-style: solid;
+    border-width: 2px;
+}
+.content-box h2 {
+    margin-top: 2px;
+}
+.content-in-box {
+    margin-left: 5px;
+}
+.here4 {
+    margin: -2px;
+    /* min-height: 214px; */
+}
