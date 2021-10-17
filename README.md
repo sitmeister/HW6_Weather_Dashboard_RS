@@ -14,5 +14,5 @@ This assignment showcases a weather dashboard where a user enters a city name an
 **[Weather Dashboard](https://sitmeister.github.io/HW6_Weather_Dashboard_RS/)**
 
 ## Webpage
-![Weather Dashboard empty](assets/Images/screencapture1.png)
-![Weather Dashboard full](assets/Images/screencapture2.png)
+![Weather Dashboard empty](assets/images/screencapture1.png)
+![Weather Dashboard full](assets/images/screencapture2.png)
